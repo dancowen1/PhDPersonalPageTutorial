@@ -18,8 +18,6 @@ Make sure you have done the following **before you arrive**. If something doesn'
 ### Accounts to create
 1. [GitHub](https://github.com) — where your website's code lives
 2. [Netlify](https://netlify.com) — where your website gets published
-3. [OpenRouter](https://openrouter.ai) — gives you free access to AI models for KiloCode
-   - After signing up, go to **Keys** → **Create Key** → copy and save it somewhere safe
 
 ### Software to install
 1. [VSCodium](https://vscodium.com) — your code editor (free, open-source version of VS Code)
@@ -28,11 +26,10 @@ Make sure you have done the following **before you arrive**. If something doesn'
 4. [GitHub Desktop](https://desktop.github.com) — a visual interface for Git. After installing, sign in with your GitHub account.
 5. **KiloCode** — install via VSCodium: open VSCodium → Extensions icon (left sidebar) → search "Kilo Code" → Install
 
-### Connect KiloCode to OpenRouter
+### Set up KiloCode
 1. Open VSCodium and click the KiloCode icon in the left sidebar (it looks like a robot)
-2. Click the settings gear → select **OpenRouter** as your provider
-3. Paste the API key you saved earlier
-4. Select a free model from the dropdown (any model labelled "free" will work)
+2. Follow the prompt to sign in / create a KiloCode account — this gives you free access to AI models, no API key or extra account needed
+3. Once signed in, pick a model labelled "free" from the dropdown
 
 ### Readiness check — do this before the workshop
 
@@ -57,7 +54,7 @@ Go through each item below. If any of them fail, try to solve it a bit before co
 
 You are going to make a copy of this website and make it your own.
 
-1. Open [this repository on GitHub](#) *(your instructor will give you the URL)*
+1. Open [this repository on GitHub](https://github.com/gabrielopereira/PhDPersonalPageTutorial)
 2. Click the green **Fork** button (top right) — this creates your own copy
 3. Open **GitHub Desktop** → File → Clone Repository → find your fork → Clone
 4. Open the cloned folder in VSCodium: File → Open Folder
@@ -175,7 +172,7 @@ Try stopping the server (`Ctrl+C`) and running `hugo server` again.
 Check the deploy log in Netlify. The most common cause is a missing file or a config typo. Copy the error and ask KiloCode to help.
 
 **KiloCode isn't responding**  
-Check your OpenRouter API key is entered correctly in KiloCode settings. Free models sometimes hit rate limits — try a different free model.
+Make sure you're signed in to KiloCode (robot icon → check your account). Free models sometimes hit rate limits — try a different free model from the dropdown.
 
 ---
 

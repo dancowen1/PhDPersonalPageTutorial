@@ -7,7 +7,7 @@
   HUGO_ENVIRONMENT = "production"
 
 [context.production.environment]
-  HUGO_BASEURL = "https://yourdomain.netlify.app/"
+  HUGO_BASEURL = "https://phdpersonalpagetutorial.netlify.app/"
 
 [[redirects]]
   from = "/*"
