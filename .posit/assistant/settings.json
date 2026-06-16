@@ -1,7 +1,22 @@
 {
   "permission": {
     "edit": {
-      "*.toml": "allow"
+      "*.toml": "allow",
+      "*.md": "allow",
+      "*.css": "allow"
+    },
+    "bash": {
+      "cd *": "allow",
+      "mv *": "allow",
+      "mkdir *": "allow",
+      "hugo server *": "allow",
+      "head *": "allow"
+    },
+    "webfetch": {
+      "https://github.com/*": "allow",
+      "https://www.scoop-program.org/*": "allow",
+      "https://journals.sagepub.com/*": "allow",
+      "https://sites.google.com/*": "allow"
     }
   }
 }

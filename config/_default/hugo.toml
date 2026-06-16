@@ -1,5 +1,6 @@
 theme = "re-terminal"
 baseURL = "https://ephemeral-unicorn-44ed7b.netlify.app/"
+languageCode = "en-us"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
@@ -7,9 +8,62 @@ enableEmoji = true
 buildDrafts = false
 buildFuture = false
 
-[pagination]
-  pagerSize = 10
+pagination.pagerSize = 10
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "paper"
+  showMenuItems = 4
+  fullWidthTheme = false
+  centerTheme = false
+  readingTime = false
+
+[languages]
+  [languages.en.params]
+    title = "Daniel Cowen"
+    subtitle = "Computational Social Scientist in Online Political Communication & Platform Governance"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.en.params.logo]
+      logoText = "Daniel Cowen"
+      logoHomeLink = "/"
+
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "research"
+      name = "Research & Activities"
+      url = "/research/"
+      weight = 20
+
+    [[languages.en.menu.main]]
+      identifier = "publications"
+      name = "Publications"
+      url = "/publications/"
+      weight = 30
+
+    [[languages.en.menu.main]]
+      identifier = "teaching"
+      name = "Teaching"
+      url = "/teaching/"
+      weight = 40
+
+    [[languages.en.menu.main]]
+      identifier = "cv"
+      name = "CV"
+      url = "/cv/"
+      weight = 50

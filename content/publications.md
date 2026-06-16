@@ -1,45 +1,20 @@
 +++
 title = "Publications"
-date = "2024-01-01"
 +++
 
-## Books
+## Peer Reviewed Publications
 
-**Huffington-Smythe, R.** (2022). *Against Clarity: A Defense of Academic Prose*. Obscura University Press.  
+- Cowen, D., Stark, T., Frey, V., & Flache, A. (2026). Trends of Friends – Time dynamics of Surface- and Deep-level traits in friendship formation and maintenance. Social Networks, 84, 180–190. [https://doi.org/10.1016/j.socnet.2025.10.001](https://doi.org/10.1016/j.socnet.2025.10.001)
+- de Jong, J. P. J., Mulhijuzen, M., Cowen, D., Onyango, L., & Kraemer-Mbula, E. (2025). Household sector innovation, diffusion failure, and business ownership: Evidence from South Africa. Science and Public Policy, 52(4), 613–629. [https://doi.org/10.1093/scipol/scaf009](https://doi.org/10.1093/scipol/scaf009)
 
-> "Provocative, if difficult to summarise." — *Journal of Critical Theory*
+## Conference Proceedings
 
-**Huffington-Smythe, R.** (2018). *The Semiotics of the Waiting Room: Power, Chairs, and the Politics of Magazines*. Boroughwick Academic Press.  
+- Rigtering, C., Mulhijuzen, M., Hughes, M., & Cowen, D. (2024). The Effect of Entrepreneurial Orientation on Employee Well-Being. Academy of Management Proceedings, 2024(1), 17102. [https://doi.org/10.5465/AMPROC.2024.17102abstract](https://doi.org/10.5465/AMPROC.2024.17102abstract) (paper under review at journal)
 
-> "A brave book. Possibly too brave." — *Humanities Quarterly*
+## Policy Reports
 
-**Huffington-Smythe, R.** (2013). *Deconstructing the Croissant: Pastry as Colonial Metaphor* (Revised edition). Cambridge Monograph Series.
+- de Jong, J. P. J., Mulhijuzen, M., Cowen, D., Kraemer-Mbula, E., Onyango, L., & von Hippel, E. (2023). Making the Invisible Visible: Informal Innovation in South Africa. United Nations Development Programme. [https://www.undp.org/acceleratorlabs/publications/informalinnovationresearch](https://www.undp.org/acceleratorlabs/publications/informalinnovationresearch)
 
----
+## Preprints
 
-## Journal Articles
-
-**Huffington-Smythe, R.** (2024). "What Does a Parking Ticket Mean? A Foucauldian Reading of Municipal Discourse." *Language & Power*, 41(2), 88–112.
-
-**Huffington-Smythe, R.**, & Fairbanks, O. (2023). "IKEA, Therefore I Am: Flat-Pack Furniture as Existential Crisis." *Cultural Semiotics Review*, 18(4), 201–229.
-
-**Huffington-Smythe, R.** (2022). "On the Semiotics of the 'Reply All' Email." *New Media & Language*, 9(1), 14–38.
-
-**Huffington-Smythe, R.** (2019). "The Crossword as Epistemological Practice: Knowing, Filling, and the Anxiety of the Blank Square." *Puzzles & Culture*, 3(1), 5–31.
-
-**Huffington-Smythe, R.** (2016). "Towards a Grammar of the Vague: Hedging, Uncertainty, and the Academic Abstract." *Discourse Studies*, 28(6), 744–769.
-
----
-
-## Book Chapters
-
-Huffington-Smythe, R. (2021). "Laundry Instructions as Oppressive Discourse." In P. Bartholomew & S. Nkosi (Eds.), *Everyday Texts, Hidden Powers* (pp. 113–134). Routledge.
-
-Huffington-Smythe, R. (2017). "The Semiotics of the Conference Lanyard." In *Anthropologies of the Academic* (pp. 57–78). Sage.
-
----
-
-## Under Review / In Progress
-
-- *The Meaning of Meaninglessness: A Comprehensive Guide* (monograph, under contract)
-- "What Does the Ellipsis Want? Three Dots and the Crisis of Digital Intimacy" (under review, *New Media & Society*)
+- Cowen, D., Frey, V., Stark, T., and Flache, A., Toxicity Comes in Threads: Charting the Course of Inter-Partisan Toxicity in a Popular Political Subreddit (November 13, 2025). Available at SSRN: [http://dx.doi.org/10.2139/ssrn.6334218](http://dx.doi.org/10.2139/ssrn.6334218) (Under review)

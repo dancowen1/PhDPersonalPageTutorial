@@ -1,42 +1,50 @@
 +++
 title = "Teaching"
-date = "2024-01-01"
 +++
 
-## Current Courses
+## Current Teaching Positions
 
-**SEM 101: Introduction to Semiotics** (Undergraduate)  
-A first-year survey of semiotic theory from Saussure to the present. Students invariably arrive hoping to decode secret messages. They leave with a more complicated relationship with the word "sign."
+### Application of Theories
+**2023 – Present** | University of Groningen  
+Lecturer & Tutorial Lead | 70–100 students
 
-**SEM 340: Critical Discourse Analysis** (Undergraduate)  
-An advanced course in reading language as a site of power. Includes a week on academic language, which students find either liberating or upsetting.
+**Responsibilities:**
+- Designed course curriculum and assignments
+- Delivered weekly lectures
+- Ran tutorials to reinforce key concepts
+- Graded assignments and provided detailed feedback
 
-**SEM 501: Theories of Meaning** (Postgraduate)  
-A demanding seminar covering Derrida, Foucault, Barthes, and several theorists whose names students reliably misspell in exams. Not recommended as a first postgraduate module.
+### Collaborative Data Project
+**2023 – Present** | University of Groningen  
+Project Supervisor | 5 students per group
+
+**Responsibilities:**
+- Supervised project groups through empirical research cycles
+- Liaison with Dutch central statistics bureau for data access and guidance
+- Graded project reports and presentations
+
+### Platform Economy & Business
+**2022** | Utrecht University  
+Lecturer
+
+**Responsibilities:**
+- Delivered lectures on platform economics and digital business models
+- Supervised student presentations and provided feedback
+
+---
+
+## Workshops Given
+
+**Web Scraping Scientific Co-publishing Networks** (2024)  
+Co-facilitated workshop with Jochems Tolsma & Rob Franken  
+*Sunbelt International Network Conference, Edinburgh, Scotland*
 
 ---
 
 ## Teaching Philosophy
 
-I believe students learn best when they encounter ideas that slightly unsettle them. Not so unsettled that they drop the course — just enough to make them question a few assumptions and, ideally, one household object.
+My lectures tend to be interactive — I do a lot of live coding and try to leave room for questions throughout rather than saving them for the end. I find that working through real problems together, including when things don't work as expected, gives students a much clearer picture of what doing research actually looks like.
 
-I also believe in feedback that is honest, timely, and written in sentences that contain verbs.
+Tutorials are where I focus on making sure students have genuinely understood something before they're asked to do it independently. Complex methods especially benefit from being walked through step by step before an assignment goes out.
 
----
-
-## PhD Supervision
-
-I currently supervise four doctoral students working on topics including:
-- Platform language and epistemic authority
-- The semiotics of academic job advertisements
-- Silence as discourse in parliamentary proceedings
-- Whether emojis have grammar (yes; this is a real question)
-
-I am open to new PhD students whose projects genuinely intersect with my research interests. I am not open to projects that "apply Derrida to" something without explaining why Derrida specifically.
-
----
-
-## Office Hours
-
-Tuesdays 14:00–16:00, Room 4.12.  
-Or by email. Or by coincidence in the corridor, though I tend to walk fast.
+I'm happy to discuss projects or methods with students outside of class — feel free to reach out.

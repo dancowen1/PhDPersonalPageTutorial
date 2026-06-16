@@ -1,0 +1,161 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+/* Custom paper theme - muted beige/grey background */
+:root {
+  --bg-muted: #e8e6e1;
+  --text-dark: #3a3a3a;
+  --accent-dark: #2c2c2c;
+}
+
+body.paper {
+  background-color: var(--bg-muted) !important;
+  color: var(--text-dark) !important;
+}
+
+.paper {
+  color: var(--text-dark) !important;
+}
+
+.paper a {
+  color: var(--accent-dark) !important;
+}
+
+.paper h1, .paper h2, .paper h3, .paper h4, .paper h5, .paper h6 {
+  color: var(--accent-dark) !important;
+}
+
+/* Profile image styling */
+/* Targeting by alt text is very specific and helps override theme styles */
+img[alt="Profile Picture"] {
+  width: 220px !important;
+  height: 220px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: 0 auto 1rem !important;
+  
+}
+
+/* Center the main container */
+.container {
+  border-right: none !important;
+  margin: 0 auto !important;
+}
+
+/* Fallback for the container to ensure centering works */
+.index-content {
+  text-align: center;
+  width: 100%;
+}
+
+/* Left align bullet points */
+.index-content ul {
+  text-align: left;
+  display: inline-block;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+/* Social links styling */
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+  flex-wrap: wrap;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.2s ease;
+}
+
+.social-link:hover {
+  opacity: 0.7;
+}
+
+.social-icon {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
+
+/* Profile header - image with icons below */
+.profile-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.profile-image {
+  width: 220px !important;
+  height: 220px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  flex-shrink: 0;
+}
+
+/* Inline social icons - horizontal row */
+.social-links-inline {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin: 0;
+}
+
+.social-link-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  font-size: 1.3rem;
+  text-decoration: none;
+  color: #3a3a3a !important;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  cursor: pointer;
+}
+
+.social-link-icon i {
+  color: #3a3a3a !important;
+}
+
+.social-link-icon img {
+  filter: none;
+}
+
+.social-link-icon:hover {
+  opacity: 0.7;
+  transform: scale(1.1);
+}
+
+.social-link-email {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+}
+
+.social-link-email i {
+  font-size: 1.3rem;
+  color: #3a3a3a !important;
+}
+
+.email-text {
+  font-size: 0.85rem;
+  color: #3a3a3a !important;
+}

@@ -1,0 +1,49 @@
++++
+title = "About"
++++
+
+![Profile Picture](/img/IMG_0892.jpg)
+
+<div class="social-links-inline">
+  <a href="https://www.linkedin.com/in/daniel-cowen-3b1aa0127/" class="social-link-icon" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="https://bsky.app/profile/dncwn.bsky.social" class="social-link-icon bluesky-icon" target="_blank" rel="noopener noreferrer" title="Bluesky">
+    <img src="/img/bluesky-white-icon.png" alt="Bluesky" style="width: 24px; height: 24px;">
+  </a>
+  <div class="social-link-email">
+    <div class="email-icon"><i class="fas fa-envelope"></i></div>
+    <div class="email-text">d.r.cowen [at] rug.nl</div>
+  </div>
+</div>
+
+## Bio
+
+I am **Daniel Cowen**, a PhD candidate in Computational Social Science at the University of Groningen. My research focuses on online political communication, platform governance, and the dynamics of hostile discourse in digital spaces.
+
+I am currently developing a dissertation that examines how toxicity spreads through threaded discussions and how bridging behaviors can interrupt hostile cascades. I employ a mixed-methods approach combining large-scale computational analysis, natural language processing, Bayesian statistical modeling, and agent-based simulation.
+
+## Research Interests
+
+- Online political communication and hostile discourse dynamics
+- Platform design and content moderation
+- Computational social science and digital trace analysis
+- Natural language processing for detecting toxicity and bridging behaviors
+- Habermasian public sphere theory in digital contexts
+- Agent-based modeling of online communities
+
+## Education
+
+**PhD (In Progress)** — University of Groningen  
+Program: Computational Social Science
+
+## Technical Skills
+
+- **Programming Languages**: Python, R, NetLogo, Javascript.
+- **NLP & Text Analysis**: Sentiment analysis, toxicity detection, discourse analysis
+- **Statistical Methods**: Bayesian modeling, network analysis, causal inference, agent based modelling
+- **Tools & Libraries**: scikit-learn, NLTK, spaCy, PyMC3, tidyverse, networkx, MESA, anything dataviz related
+
+## Personal
+
+Outside of academia, I enjoy playing tennis, making music, and (admittedly) reading about political systems in countries I am not from.
