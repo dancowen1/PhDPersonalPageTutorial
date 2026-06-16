@@ -36,6 +36,30 @@ img[alt="Profile Picture"] {
   
 }
 
+/* Sticky header */
+.header {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+/* Push content down so it doesn't hide under the fixed header */
+.wrapper {
+  padding-top: 80px !important;
+}
+
+/* Scroll-linked progress bar lines */
+:root {
+  --scroll-progress: 0;
+}
+
+.header__logo::after {
+  width: calc(var(--scroll-progress) * 100%) !important;
+  transition: width 0.1s ease-out;
+}
+
 /* Center the main container */
 .container {
   border-right: none !important;

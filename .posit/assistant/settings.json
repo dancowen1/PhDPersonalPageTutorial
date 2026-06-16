@@ -3,7 +3,9 @@
     "edit": {
       "*.toml": "allow",
       "*.md": "allow",
-      "*.css": "allow"
+      "*.css": "allow",
+      "*.html": "allow",
+      "*.js": "allow"
     },
     "bash": {
       "cd *": "allow",
