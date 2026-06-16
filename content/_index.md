@@ -1,10 +1,9 @@
----
-title: "Dr. Reginald Huffington-Smythe III"
-description: "Professor of Postmodern Semiotics. Amateur Competitive Crossword Solver. Reluctant dog owner."
----
++++
+title = "Daniel Cowen"
+description = "Computational Social Scientist in Online Political Communication & Platform Governance"
++++
 
-Hi! I'm a phds at the University of Upper Boroughwick, where I've been asking "but what does it *mean*?" about increasingly mundane objects since 2009.
+Hi! I'm Dan, a PhD at the University Groningen. I study how hostility spreads and can be interrupted in threaded online political discussions, combining large-scale digital trace analysis, NLP, Bayesian modelling, and agent-based simulation. My work-in-progress dissertation examines toxic cascades and bridging behaviours in online political communities, using Habermas' theory of the public sphere to connect empirical findings to questions of democratic speech, platform design, and the boundary between harmful content and legitimate contestation. I work at the intersection of computational social science, political communication, and platform studies.
 
-My research focuses on the hidden power structures embedded in everyday language — parking tickets, IKEA manuals, corporate mission statements, and the passive-aggressive subtext of "per my last email." I'm also, inexplicably, a competitive crossword solver.
 
-Outside of work I play the clarinet badly, walk my dog Derrida reluctantly, and have very strong opinions about the Oxford comma that I will share unprompted.
+Outside of work I play tennis, make music and have unfounded interests in the political process from countries I am not from.

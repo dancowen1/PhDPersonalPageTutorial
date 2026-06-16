@@ -1,14 +1,11 @@
----
-title: "About"
-date: 2024-01-01
-showDate: false
-showReadingTime: false
-showAuthor: false
----
++++
+title = "About"
+date = "2024-01-01"
++++
 
 ## Bio
 
-I am **Dr. Reginald Huffington-Smythe III**, Professor of Postmodern Semiotics and Chair of the Subcommittee on Departmental Refrigerator Usage Policy at the University of Upper Boroughwick.
+I am **Daniel Cowen**, Professor of Postmodern Semotics and Chair of the Subcommittee on Departmental Refrigerator Usage Policy at the University of Upper Boroughwick.
 
 I completed my doctorate at the University of Cambridge on the topic of *"Deconstructing the Croissant: Pastry as Colonial Metaphor in 19th Century French Literature"*, a work my supervisor described as "ambitious" and my mother described as "a waste of a perfectly good education."
 

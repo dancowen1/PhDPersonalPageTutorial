@@ -1,17 +1,16 @@
----
-title: "Publications"
-date: 2024-01-01
-showDate: false
-showReadingTime: false
-showAuthor: false
----
++++
+title = "Publications"
+date = "2024-01-01"
++++
 
 ## Books
 
 **Huffington-Smythe, R.** (2022). *Against Clarity: A Defense of Academic Prose*. Obscura University Press.  
+
 > "Provocative, if difficult to summarise." — *Journal of Critical Theory*
 
 **Huffington-Smythe, R.** (2018). *The Semiotics of the Waiting Room: Power, Chairs, and the Politics of Magazines*. Boroughwick Academic Press.  
+
 > "A brave book. Possibly too brave." — *Humanities Quarterly*
 
 **Huffington-Smythe, R.** (2013). *Deconstructing the Croissant: Pastry as Colonial Metaphor* (Revised edition). Cambridge Monograph Series.
