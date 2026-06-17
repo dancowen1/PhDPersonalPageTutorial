@@ -21,13 +21,12 @@ description = "PhD Candidate in Computational Social Science | University of Gro
 
 ### Computational Social Scientist in Online Political Communication & Platform Governance
 
-I am **Daniel Cowen**, a PhD candidate in Computational Social Science at the University of Groningen. My research focuses on online political communication, platform governance, and the dynamics of hostile discourse in digital spaces.
-
-I study how hostility spreads and can be interrupted in threaded online political discussions, combining large-scale digital trace analysis, NLP, Bayesian modelling, and agent-based simulation. My work examines toxic cascades and bridging behaviours in online political communities, using Habermas' theory of the public sphere to connect empirical findings to questions of democratic speech, platform design, and the boundary between harmful content and legitimate contestation. I work at the intersection of theoretical and computational social science, political communication, and platform studies.
+I am **Daniel Cowen**, a PhD candidate in Computational Social Science at the University of Groningen. As a researcher, I study the dynamics of social systems—how conflict, cooperation, and innovation emerge and spread across networks. My work combines digital trace analysis, NLP, Bayesian modeling, and agent-based simulation to understand patterns of behavior, whether mapping toxic cascades in political discussions, tracking friendship formation, or analyzing innovation ecosystems. I connect empirical findings to questions of platform design, democratic speech, and social identity, all through the lens of computational social science.
 
 ## Research Interests
 
 - Longitudinal intergroup dynamics and social identity formation
+- Behavioral diffusion
 - Online political communication and hostile discourse repercussions
 - Computational social science and digital trace analysis
 - Natural language processing for detecting toxicity and bridging behaviors
