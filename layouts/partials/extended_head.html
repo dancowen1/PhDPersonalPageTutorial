@@ -1,1 +1,57 @@
-<script src="/js/scroll.js" defer></script>
+<!-- Schema.org markup for person and researcher profile -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Daniel Cowen",
+  "url": "{{ .Site.BaseURL }}",
+  "image": "{{ .Site.BaseURL }}img/IMG_0892.jpg",
+  "sameAs": [
+    "https://www.linkedin.com/in/daniel-cowen-3b1aa0127/",
+    "https://bsky.app/profile/dncwn.bsky.social"
+  ],
+  "jobTitle": "PhD Candidate",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Groningen",
+    "url": "https://www.rug.nl"
+  },
+  "email": "d.r.cowen@rug.nl",
+  "description": "PhD Candidate in Computational Social Science studying online political communication, toxic discourse dynamics, and platform governance"
+}
+</script>
+
+<!-- Schema.org markup for research interests -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ResearchProject",
+  "name": "Online Political Communication and Toxic Discourse Dynamics",
+  "description": "Research examining how toxicity spreads and can be interrupted in threaded online political discussions using computational social science methods",
+  "creator": {
+    "@type": "Person",
+    "name": "Daniel Cowen"
+  },
+  "sponsor": {
+    "@type": "Organization",
+    "name": "SCOOP - Sustainable Cooperation Program",
+    "url": "https://www.scoop-program.org"
+  }
+}
+</script>
+
+<!-- Open Graph enhancements for social sharing -->
+<meta property="og:type" content="profile" />
+<meta property="og:profile:first_name" content="Daniel" />
+<meta property="og:profile:last_name" content="Cowen" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Daniel Cowen - Computational Social Scientist" />
+<meta name="twitter:description" content="PhD Candidate in Computational Social Science at University of Groningen. Researching online political communication, toxic discourse, and platform governance." />
+<meta name="twitter:image" content="{{ .Site.BaseURL }}img/IMG_0892.jpg" />
+
+<!-- Additional meta tags for SEO -->
+<meta name="author" content="Daniel Cowen" />
+<meta name="keywords" content="computational social science, online political communication, platform governance, toxic discourse, NLP, agent-based modeling, University of Groningen" />
+<link rel="canonical" href="{{ .Site.BaseURL }}" />

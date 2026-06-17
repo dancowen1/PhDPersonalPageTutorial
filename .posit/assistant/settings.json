@@ -5,7 +5,8 @@
       "*.md": "allow",
       "*.css": "allow",
       "*.html": "allow",
-      "*.js": "allow"
+      "*.js": "allow",
+      "*.txt": "allow"
     },
     "bash": {
       "cd *": "allow",

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /public/
+
+Sitemap: https://ephemeral-unicorn-44ed7b.netlify.app/sitemap.xml

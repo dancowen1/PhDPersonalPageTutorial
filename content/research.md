@@ -1,5 +1,6 @@
 +++
-title = "Research & Activities"
+title = "Daniel Cowen - Research & Academic Activities"
+description = "Research projects, publications, and academic service by Daniel Cowen in computational social science, online political communication, and platform governance. SCOOP program, Rationality and Society journal, and Norms and Networks Cluster."
 +++
 
 ## Research Projects

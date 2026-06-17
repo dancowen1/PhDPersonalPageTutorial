@@ -1,6 +1,6 @@
 +++
-title = "Daniel Cowen"
-description = "PhD Candidate in Computational Social Science | University of Groningen"
+title = "Daniel Cowen - Computational Social Scientist"
+description = "Daniel Cowen is a PhD candidate in Computational Social Science at the University of Groningen studying online political communication, toxic discourse dynamics, and platform governance using NLP, Bayesian modeling, and agent-based simulation."
 +++
 
 <div class="profile-header">

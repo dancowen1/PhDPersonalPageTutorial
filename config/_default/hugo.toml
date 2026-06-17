@@ -2,11 +2,13 @@ theme = "re-terminal"
 baseURL = "https://ephemeral-unicorn-44ed7b.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+title = "Daniel Cowen - Computational Social Scientist"
 
 enableRobotsTXT = true
 enableEmoji = true
 buildDrafts = false
 buildFuture = false
+disableKinds = []
 
 pagination.pagerSize = 10
 
@@ -27,10 +29,10 @@ pagination.pagerSize = 10
 
 [languages]
   [languages.en.params]
-    title = "Daniel Cowen"
+    title = "Daniel Cowen - Computational Social Scientist"
     subtitle = "Computational Social Scientist in Online Political Communication & Platform Governance"
-    keywords = ""
-    copyright = ""
+    keywords = "Daniel Cowen, computational social science, online political communication, platform governance, toxic discourse, NLP, agent-based modeling, University of Groningen"
+    copyright = "© 2026 Daniel Cowen. All rights reserved."
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"

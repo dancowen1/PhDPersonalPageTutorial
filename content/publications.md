@@ -1,5 +1,6 @@
 +++
-title = "Publications"
+title = "Daniel Cowen - Publications & Research Papers"
+description = "Academic publications by Daniel Cowen including peer-reviewed papers on friendship dynamics, household sector innovation, employee well-being, and online political communication in computational social science."
 +++
 
 ## Peer Reviewed Publications
