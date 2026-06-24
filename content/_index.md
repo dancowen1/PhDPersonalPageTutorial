@@ -21,7 +21,7 @@ description = "Daniel Cowen is a PhD candidate in Computational Social Science a
 
 ### Computational Social Scientist in Online Political Communication & Platform Governance
 
-I am **Daniel Cowen**, a PhD candidate in Computational Social Science at the University of Groningen. As a researcher, I study the dynamics of social systems—how conflict, cooperation, and innovation emerge and spread across networks. My work combines digital trace analysis, NLP, Bayesian modeling, and agent-based simulation to understand patterns of behavior, whether mapping toxic cascades in political discussions, tracking friendship formation, or analyzing innovation ecosystems. I connect empirical findings to questions of platform design, democratic speech, and social identity, all through the lens of computational social science.
+I am **Daniel Cowen**, a PhD candidate in Computational Social Science at the University of Groningen. As a researcher, I study the dynamics of social systems - specifically how conflict, cooperation, and innovation emerge and spread across networks. My work combines digital trace analysis, NLP, empirical modeling, and agent-based simulation to understand patterns of behavior, whether mapping toxic cascades in political discussions, tracking friendship formation, or analyzing innovation ecosystems. I connect empirical findings to questions of platform design, democratic speech, and social identity, all through the lens of computational social science.
 
 ## Research Interests
 
