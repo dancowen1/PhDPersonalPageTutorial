@@ -49,4 +49,4 @@ Part of the [SCOOP](https://www.scoop-program.org/) (Sustainable Cooperation Pro
 
 ## Personal
 
-Outside of academia, I enjoy playing tennis, making music, and (admittedly) reading about political systems in countries I am not from.
+Outside of academia, I enjoy playing tennis, making music, and reading about political happenings in countries I am not from (no skin in the game).
